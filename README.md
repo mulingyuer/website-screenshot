@@ -18,6 +18,6 @@
 
 然后我们就可以使用不同的浏览器的元素截图功能进行截图，直接选择body元素即可，注意记得将f12工具作为独立窗口，不然浏览器这个憨批它截图不全，f12控制台会压缩掉部分高度。
 
-![pi7XBEn.jpg](https://s11.ax1x.com/2023/12/24/pi7XBEn.jpg)
+![pi7X63T.jpg](https://s11.ax1x.com/2023/12/24/pi7X63T.jpg)
 
-![pi7XDNq.jpg](https://s11.ax1x.com/2023/12/24/pi7XDNq.jpg)
+![pi7XcgU.jpg](https://s11.ax1x.com/2023/12/24/pi7XcgU.jpg)
