@@ -6,7 +6,7 @@
 
 ## 预览图
 
-![pi7XdBj.png](https://s11.ax1x.com/2023/12/24/pi7XdBj.png)
+![pi7Xr40.png](https://s11.ax1x.com/2023/12/24/pi7Xr40.png)
 
 ## 教程
 
