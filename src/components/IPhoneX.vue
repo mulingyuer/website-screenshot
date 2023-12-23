@@ -1,7 +1,7 @@
 <!--
  * @Author: mulingyuer
  * @Date: 2023-12-24 02:38:36
- * @LastEditTime: 2023-12-24 04:28:59
+ * @LastEditTime: 2023-12-24 05:24:11
  * @LastEditors: mulingyuer
  * @Description: IPhoneX
  * @FilePath: \website-screenshot\src\components\IPhoneX.vue
@@ -62,11 +62,12 @@ const src = computed(() => dataStore.url);
 	position: absolute;
 	inset: 2.9% 6.5%;
 	background-color: #141d21;
+	border-radius: 35px;
+	overflow: hidden;
 }
 .iphone-x-iframe {
 	border: none;
 	width: 100%;
 	height: 100%;
-	border-radius: 35px;
 }
 </style>
