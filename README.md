@@ -1,46 +1,23 @@
-# website-screenshot
+# 简介
 
-This template should help get you started developing with Vue 3 in Vite.
+这是一个因为想给自己的主题截图，结果发现市面上的截图工具素材都很旧，像素也不高，于是衍生出自己搓一个专门用来展示的小工具。
 
-## Recommended IDE Setup
+由于纯通过前端截图的种种限制，我觉得没必要费那么大力气去做个纯前端的截图，大家可以自己通过F12开发者工具，然后将开发者工具作为独立窗口移出去，再通过浏览器的dom截图即可，这个功能火狐和谷歌浏览器都是支持的。
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## 预览图
 
-## Type Support for `.vue` Imports in TS
+![pi7XdBj.png](https://s11.ax1x.com/2023/12/24/pi7XdBj.png)
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+## 教程
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+在线地址：[website-screenshot](https://mulingyuer.github.io/website-screenshot/)
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+![pi7XwHs.jpg](https://s11.ax1x.com/2023/12/24/pi7XwHs.jpg)
 
-## Customize configuration
+首先我们点击右侧的相机按钮，此时会将不需要的元素全部隐藏。
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+然后我们就可以使用不同的浏览器的元素截图功能进行截图，直接选择body元素即可，注意记得将f12工具作为独立窗口，不然浏览器这个憨批它截图不全，f12控制台会压缩掉部分高度。
 
-## Project Setup
+![pi7XBEn.jpg](https://s11.ax1x.com/2023/12/24/pi7XBEn.jpg)
 
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
+![pi7XDNq.jpg](https://s11.ax1x.com/2023/12/24/pi7XDNq.jpg)
